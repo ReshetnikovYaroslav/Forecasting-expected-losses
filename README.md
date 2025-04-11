@@ -1,2 +1,2 @@
 # Forecasting-expected-losses
-Python loan data processing and expected loss (EL) modeling based on probability of default (PD), loss given default (LGD) and exposure at default (EAD)
+Обработка данных по ссудам на Python и моделирование ожидаемых потерь (EL) на основе вероятности дефолта (PD), убытков в случае дефолта (LGD) и кредитных обязательств (EAD)
